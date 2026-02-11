@@ -11,7 +11,7 @@ intents.members = True
 
 bot = commands.Bot(command_prefix=".", intents=intents)
 
-# ===== LIMIT =====
+# limit task
 DELETE_LIMIT = 20
 CREATE_LIMIT = 20
 MESSAGE_LIMIT = 30
